@@ -3,8 +3,8 @@
 
 # Paper list
 
-* RCNN:  [ Rich feature hierarchies for accurate object detection and semantic segmentation ](papers/Rich feature hierarchies for accurate object detection and semantic segmentation.pdf)
-* DeepMask: [Learning to Segment Object Candidates](papers/LearningtoSegmentObjectCandidates.pdf)
-* Instance FCN: [Instance-sensitive Fully Convolutional Networks](papers/Instance-sensitive Fully Convolutional Networks.pdf)
-* HTC: [Hybrid Task Cascade for Instance Segmentation](papers/Hybrid Task Cascade for Instance Segmentation.pdf)
+* RCNN:  [ Rich feature hierarchies for accurate object detection and semantic segmentation ](papers/Rich_feature_hierarchies_for_accurate_object_detection_and_semantic_segmentation.pdf)
+* DeepMask: [Learning to Segment Object Candidates](papers/Learning_to_Segment_Object_Candidates.pdf)
+* Instance FCN: [Instance-sensitive Fully Convolutional Networks](papers/Instance-sensitive_Fully_Convolutional_Networks.pdf)
+* HTC: [Hybrid Task Cascade for Instance Segmentation](papers/Hybrid_Task_Cascade_for_Instance_Segmentation.pdf)
 
